@@ -12,6 +12,8 @@
 - 📫 How to reach me **ferdiduzgun9@gmail.com**
 
 - 📄 Know about my experiences [https://tryhackme.com/p/Fredo](https://tryhackme.com/p/Fredo)
+- 📄 Know about my experiences [https://app.priviahub.com/profile/lord0014](https://app.priviahub.com/profile/lord0014)
+- 📄 Know about my experiences [https://app.hackthebox.com/profile/1573678](https://app.hackthebox.com/profile/1573678)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
