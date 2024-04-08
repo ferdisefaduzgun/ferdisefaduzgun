@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdi Sefa Düzgün</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">A passionate Pentester - Devoloper from Turkey</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -14,7 +14,9 @@
 - 📄 Know about my experiences [https://tryhackme.com/p/Fredo](https://tryhackme.com/p/Fredo)
 - 📄 Know about my experiences [https://app.priviahub.com/profile/lord0014](https://app.priviahub.com/profile/lord0014)
 - 📄 Know about my experiences [https://app.hackthebox.com/profile/1573678](https://app.hackthebox.com/profile/1573678)
-
+- 📄 Know about my experiences [https://ctf.pwnlab.me/users/1262](https://ctf.pwnlab.me/users/1262)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ferdi-sefa-düzgün-89b8b5274/](https://www.linkedin.com/in/ferdi-sefa-düzgün-89b8b5274/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ferdisefaduzgun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferdisefaduzgun" height="30" width="40" /></a>
