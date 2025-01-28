@@ -1,4 +1,4 @@
-![](ferdi.png)
+![](ferdi.jpg)
 
 ~ whoami
 > just another guy who likes to cybersec
