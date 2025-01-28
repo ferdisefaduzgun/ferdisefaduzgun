@@ -1,20 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ferdi Sefa Düzgün</h1>
-<h3 align="center">A passionate Pentester - Devoloper from Turkey</h3>
+![](ferdi.png)
 
-- 🌱 I’m currently learning **JavaScript**
+~ whoami
+> just another guy who likes to cybersec
 
-- 🤝 I’m looking for help with **JavaScript**
+~ explain ferdisefaduzgun
+> from Turkey, passionate Pentester, 23yo
 
-- 👨‍💻 All of my projects are available at [https://ferdisefaduzgun.me/](https://ferdisefaduzgun.me/)
+~ links
+> for more information about me -> [https://www.linkedin.com/in/ferdi-sefa-düzgün-89b8b5274/](https://www.linkedin.com/in/ferdi-sefa-düzgün-89b8b5274/)
 
-- 📫 How to reach me **ferdiduzgun9@gmail.com**
+> Know about my experiences ->	[https://tryhackme.com/p/Fredo](https://tryhackme.com/p/Fredo)
 
-- 📄 Know about my experiences [https://tryhackme.com/p/Fredo](https://tryhackme.com/p/Fredo)
-- 📄 Know about my experiences [https://app.priviahub.com/profile/lord0014](https://app.priviahub.com/profile/lord0014)
-- 📄 Know about my experiences [https://app.hackthebox.com/profile/1573678](https://app.hackthebox.com/profile/1573678)
-- 📄 Know about my experiences [https://ctf.pwnlab.me/users/1262](https://ctf.pwnlab.me/users/1262)
-- 📄 Know about my experiences [https://www.linkedin.com/in/ferdi-sefa-düzgün-89b8b5274/](https://www.linkedin.com/in/ferdi-sefa-düzgün-89b8b5274/)
-  
+> Know about my experiences ->	[https://app.priviahub.com/profile/lord0014](https://app.priviahub.com/profile/lord0014)
+
+> Know about my experiences ->	[https://app.hackthebox.com/profile/1573678](https://app.hackthebox.com/profile/1573678)
+
+> Know about my experiences ->	[https://ctf.pwnlab.me/users/1262](https://ctf.pwnlab.me/users/1262)
+
+> for my education videos -> [https://www.youtube.com/@FerdiSefaDuzgun](https://www.youtube.com/@FerdiSefaDuzgun)
+
+> for more information about me -> [https://ferdisefaduzgun.me/](https://ferdisefaduzgun.me/)
+
+> Reach me ->	**ferdiduzgun9@gmail.com**
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ferdi-sefa-düzgün-89b8b5274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdi-sefa-düzgün-89b8b5274" height="30" width="40" /></a>
@@ -26,4 +34,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferdisefaduzgun&show_icons=true&locale=en&layout=compact" alt="ferdisefaduzgun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdisefaduzgun&" alt="ferdisefaduzgun" /></p>
-
