@@ -4,7 +4,7 @@
 > just another guy who likes to cybersec
 
 ~ explain ferdisefaduzgun
-> from Turkey, passionate Pentester,
+> from Turkey, passionate Pentester
 
 ~ links
 > for more information about me -> [https://www.linkedin.com/in/ferdi-sefa-düzgün-89b8b5274/](https://www.linkedin.com/in/ferdi-sefa-düzgün-89b8b5274/)
